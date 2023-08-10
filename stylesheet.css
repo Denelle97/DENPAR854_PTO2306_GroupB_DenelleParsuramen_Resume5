@@ -1,0 +1,72 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #EBEDF3;
+    color: black;
+}
+/* Name */
+h1 {
+    font: size 130px;
+    background-color: #96aace ;
+    color: #003B6D; 
+    text-align: center;
+    }
+
+
+/* paragraph 
+p { color: #aebed9;
+background-color: #7d97c3;
+}
+*/
+
+/* Menu */
+aside {
+    background-color: #96aace;
+}
+
+/* Styles small intro about me */
+.Intro {
+    background-color: #96aace;
+}
+
+/* Styles all education & experience */
+.maincontent {
+background-color: #BDBDBD;
+}
+
+#Education {
+    color: #003B6D;
+    font-weight: bolder;
+
+}
+
+#Experience {
+    color: #003B6D;
+    font-weight: bolder;
+  }
+
+/* Styling my 3 skill lists */
+.Software {
+
+    color: #003B6D;
+    font-weight: bolder;
+}
+
+/* Used ID here instead of class as my menu brings the user to this part of my 
+website & cannot be changed or the function will not work */
+#Skills {
+    color: #003B6D;
+    font-weight: bolder;
+}
+ 
+
+.Accomplishments {
+
+    color: #003B6D;
+    font-weight: bolder;
+}
+
+footer {
+  color: #003B6D;
+  background-color: #676767;
+  text-align: center;
+}
